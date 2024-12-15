@@ -3,6 +3,10 @@
   text-align: center;
 }
 
+.images {
+  width: 500px;
+  height: auto;
+}
 .headings {
   font-family: "Apple Chancery", "Times New Roman", cursive;
   font-size: 50px;
